@@ -1,0 +1,28 @@
+{
+  "name": "retool_practicice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriSarveshA1/appollo-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SriSarveshA1/appollo-graphql/issues"
+  },
+  "homepage": "https://github.com/SriSarveshA1/appollo-graphql#readme",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "apollo-server": "^3.13.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.9.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.9.0",
+    "prisma": "^5.19.1"
+  }
+}
